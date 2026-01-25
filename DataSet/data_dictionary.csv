@@ -1,0 +1,25 @@
+Field,说明
+ID,唯一乘客标识符
+Gender,乘客性别（女性/男性）
+Age,乘客年龄
+Customer Type,航空公司客户类型（首次/常客）
+Type of Travel,航班目的（商务/个人）
+Class,乘客座位所在的飞机旅行舱级别
+Flight Distance,航班距离（英里）
+Departure Delay,航班起飞延误（分钟）
+Arrival Delay,航班到达延误（分钟）
+Departure and Arrival Time Convenience,对航班起飞和到达时间便利性的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+Ease of Online Booking,对在线预订体验的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+Check-in Service,对值机服务的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+Online Boarding,对电子登机牌体验的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+Gate Location,对机场航站楼位置的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+On-board Service,对机场登机服务的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+Seat Comfort,对飞机座椅舒适度的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+Leg Room Service,对飞机座椅腿部空间的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+Cleanliness,对飞机清洁度的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+Food and Drink,对飞机上提供的食物和饮料的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+In-flight Service,对机上服务的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+In-flight Wifi Service,对机上 WiFi 服务的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+In-flight Entertainment,对机上娱乐的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+Baggage Handling,对航空公司行李处理的满意度水平，从 1（最低）到 5（最高） - 0 表示“不适用”
+Satisfaction,对航空公司的总体满意度水平（满意/中立或不满意）
